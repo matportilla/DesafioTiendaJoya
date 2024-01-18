@@ -1,8 +1,13 @@
 Desafio Tienda de Joyas - Desafio Latam - 
+
 Paula Marti - Matias Portilla - Nicolas Arratia
 
+
 1 - Clonar repositorio
+
+
 2 - Llenar datos de Postgres
+
 
 3 - //Crear Base de Datos con la siguiente estructura
 
