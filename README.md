@@ -1,4 +1,4 @@
-Desafio Tienda de Joyas - Desafio Latam
+Desafio Tienda de Joyas - Desafio Latam - 
 Paula Marti - Matias Portilla - Nicolas Arratia
 
 1 - Clonar repositorio
